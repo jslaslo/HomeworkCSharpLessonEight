@@ -1,0 +1,15 @@
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/bin/Debug/net7.0/TaskTwo
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/bin/Debug/net7.0/TaskTwo.deps.json
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/bin/Debug/net7.0/TaskTwo.runtimeconfig.json
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/bin/Debug/net7.0/TaskTwo.dll
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/bin/Debug/net7.0/TaskTwo.pdb
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.csproj.AssemblyReference.cache
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.AssemblyInfoInputs.cache
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.AssemblyInfo.cs
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.csproj.CoreCompileInputs.cache
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.dll
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/refint/TaskTwo.dll
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.pdb
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/TaskTwo.genruntimeconfig.cache
+/Users/Vlad/GeekBrains/СSharpLern/LessonEight/Homework/TaskTwo/obj/Debug/net7.0/ref/TaskTwo.dll
